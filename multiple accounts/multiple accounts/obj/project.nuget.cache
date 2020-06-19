@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TIR+gZmKmTdCgzLQBB6McNbn6viTlrpq1nH0iL/hX2RmBYILcmEJk50orjg+vwmxfrmQ2c9OqXweglNAvCQ8Qg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Melita\\source\\repos\\multiple accounts\\multiple accounts\\multiple accounts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Melita\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
